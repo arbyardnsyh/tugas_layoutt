@@ -90,4 +90,19 @@ Hasil di web
 
 ![alt text](ss/10b.png)
 
+10.Membuat card
 
+![alt text](ss/10a.png)
+
+Hasil di web
+
+![alt text](ss/10b.png)
+
+
+11.Membuat List card
+
+![alt text](ss/11a.png)
+
+Hasil di web
+
+![alt text](ss/11b.png)
