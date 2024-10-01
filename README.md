@@ -9,7 +9,12 @@ Hasil di web
 ![hasil](ss/P1.png)
 
 
-2.
+2.Membuat Aplikasi Cuppertino
+![alt text](ss/2a.png)
+
+Hasil di web
+![alt text](ss/2b.png)
+
 
 
 
