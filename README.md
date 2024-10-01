@@ -84,25 +84,25 @@ Hasil di web
 
 9.Membuat Colour
 
-![alt text](ss/10a.png)
+![alt text](ss/10b.png)
 
 Hasil di web
 
-![alt text](ss/10b.png)
+![alt text](ss/10a.png)
 
 10.Membuat card
-
-![alt text](ss/10a.png)
-
-Hasil di web
-
-![alt text](ss/10b.png)
-
-
-11.Membuat List card
 
 ![alt text](ss/11a.png)
 
 Hasil di web
 
 ![alt text](ss/11b.png)
+
+
+11.Membuat List card
+
+![alt text](ss/12a.png)
+
+Hasil di web
+
+![alt text](ss/12b.png)
