@@ -84,10 +84,10 @@ Hasil di web
 
 9.Membuat Colour
 
-![alt text](ss/9a.png)
+![alt text](ss/10a.png)
 
 Hasil di web
 
-![alt text](ss/9b.png)
+![alt text](ss/10b.png)
 
 
